@@ -1,10 +1,8 @@
 ## Hi there 👋
 
-I’m Jaime, a Developer with 2+ years of experience!
+I’m Jaime, a Developer with 2 years of experience.
 
-🔭 Right now, I’m building with React, **React Native, and Node.js**
-
-🌱 I’m expanding my skill set with **Next.js, TypeScript, and Java**
+🔭 Right now, I’m building with **React, React Native and Node.js**
 
 👯 I’m looking to collaborate on **tech projects**
 
