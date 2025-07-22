@@ -27,7 +27,7 @@ I’m Jaime, a Developer with 2+ years of experience!
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### :art: Styling:
+### 🖌️ Styling:
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### :hammer_and_wrench: Tools & Platforms:
