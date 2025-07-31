@@ -6,7 +6,7 @@ I’m Jaime, a Developer with 2 years of experience.
 
 👯 I’m looking to collaborate on **tech projects**
 
-📫 Let’s connect on: [LinkedIn](https://www.linkedin.com/in/jaimeherrerazuniga/)
+📫 Let’s connect on: [LinkedIn](https://www.linkedin.com/in/jaimehz/)
 
 
 ## 🛠 Tech Stack
